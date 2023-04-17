@@ -5,7 +5,6 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import Request from '@/utils/http.js'
-import '@/styles/less/table_form_common.less'
 //vue2.0 template 链运算符使用
 import { useChain } from '@/utils/index.js'
 
